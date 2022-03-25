@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "price": "$340",
+        "picture": "https://img.freepik.com/free-photo/black-wireless-headphone-isolated-beautiful-pastel-color_47469-462.jpg?w=740",
+        "name": "Black wireless"
+    },
+    {
+        "id": "2",
+        "price": "$300",
+        "picture": "https://img.freepik.com/free-photo/black-wireless-earbud-with-charging-case_1268-14371.jpg?t=st=1648231472~exp=1648232072~hmac=ab57aca18618da76f23f96924a83d66893ffaf88801c93908a5e8552aaeab842&w=740",
+        "name": "earbud"
+    },
+    {
+        "id": "3",
+        "price": "$200",
+        "picture": "https://img.freepik.com/free-photo/colored-headphones-colored-vintage-background_121234-174.jpg?w=740",
+        "name": "Sennheiser"
+    },
+    {
+        "id": "4",
+        "price": "$400",
+        "picture": "https://img.freepik.com/free-photo/earphones-lying-green-background-modern-music-concept-audio-technology_370059-3038.jpg?w=740",
+        "name": "Jabra"
+    },
+    {
+        "id": "5",
+        "price": "$3,180.52",
+        "picture": "https://img.freepik.com/free-photo/top-view-photo-black-headphones-with-microphone-isolated-pastel-blue-background-with-copyspace_352249-4704.jpg?w=740",
+        "name": "Shure"
+    },
+    {
+        "id": "6",
+        "price": "$500",
+        "picture": "https://img.freepik.com/free-photo/earphone-white-background_271326-479.jpg?w=360",
+        "name": "RHA"
+    },
+    {
+        "id": "7",
+        "price": "$2,383.83",
+        "picture": "https://img.freepik.com/free-photo/white-red-wireless-headphones-gray-background_151013-32954.jpg?w=740",
+        "name": "Fiio"
+    },
+    {
+        "id": "8",
+        "price": "$250",
+        "picture": "https://img.freepik.com/free-photo/modern-wired-headphone-left-laptop-computer-with-copyspace-headphones-personal-notebook-computer-relaxation-after-working_120378-2278.jpg?w=740",
+        "name": "Bose"
+    },
+    {
+        "id": "9",
+        "price": "$580",
+        "picture": "https://img.freepik.com/free-photo/headset-with-microphone-isolated-white_93675-126603.jpg?w=740",
+        "name": "Skullcandy"
+    }
+]
