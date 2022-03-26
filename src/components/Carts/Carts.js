@@ -18,7 +18,14 @@ const Carts = () => {
     }
 
     const handleRandomCart = () => {
-        console.log('clicked')
+        const randomNumber = Math.floor(Math.random() * cart.length);
+        setCart([cart[randomNumber]]);
+
+    }
+
+    const handleDeleteCart = () => {
+        setCart([])
+
     }
     return (
         <div className="earphone-container">
@@ -41,7 +48,7 @@ const Carts = () => {
                     <button onClick={handleRandomCart} className='button-style'>
                         <p>Choose 1 For Me</p>
                     </button>
-                    <button className='btn2-style'>
+                    <button onClick={handleDeleteCart} className='btn2-style'>
                         <p>Choose Again</p>
                     </button>
                 </div>
