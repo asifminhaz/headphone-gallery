@@ -17,6 +17,9 @@ const Carts = () => {
         setCart(newCart);
     }
 
+    const handleRandomCart = () => {
+        console.log('clicked')
+    }
     return (
         <div className="earphone-container">
             <div className="products-container">
@@ -35,7 +38,7 @@ const Carts = () => {
                         cart.map(item => <h1>{item.name}</h1>)
                     }
 
-                    <button className='button-style'>
+                    <button onClick={handleRandomCart} className='button-style'>
                         <p>Choose 1 For Me</p>
                     </button>
                     <button className='btn2-style'>
