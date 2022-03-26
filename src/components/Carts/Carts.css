@@ -8,3 +8,21 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 40px;
 }
+.button-style{
+    background-color:lightsalmon;
+    width: 200px;
+}
+.btn2-style{
+   text-decoration: red;
+   width: 200px;
+}
+.headline{
+    background-color: rgb(173, 167, 216);
+   margin: 5px;
+}
+
+@media screen and (max-width:688px){
+    .products-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
